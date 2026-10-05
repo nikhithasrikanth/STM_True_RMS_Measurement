@@ -26,7 +26,6 @@
 
 /*
  * Calculate AC True RMS from simulated ADC samples.
- *
  * The ADC samples are converted back to voltage,
  * the DC midpoint is removed, and the RMS value
  * is calculated from the AC component.
