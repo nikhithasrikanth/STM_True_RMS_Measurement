@@ -1,4 +1,4 @@
-# #STM32 True RMS Measurement
+## STM32 True RMS Measurement
 
 ## Overview
 
