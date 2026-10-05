@@ -27,3 +27,10 @@ A software simulation was used to test the RMS calculation.
 
 The simulation generates a 50 Hz AC waveform and converts it into simulated 12-bit ADC samples.
 
+## Simulation Results 
+
+Expected RMS:          415.000 V
+ADC Input RMS:         1.000 V
+Voltage Scale Factor:  415.000
+Calculated RMS:        415.003 V
+RMS Test: PASS
